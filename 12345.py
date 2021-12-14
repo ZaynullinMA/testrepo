@@ -1,2 +1,1 @@
-a='qwertyuiop'
-b=255
+c='hello'
